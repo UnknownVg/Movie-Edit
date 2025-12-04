@@ -67,6 +67,11 @@ getgenv().Games = {
     ["Build A Boat"] = {
         IDs = {537413528},
         Script = "https://raw.githubusercontent.com/UnknownVg/ANIME-EDIT/refs/heads/main/BaB.Lua"
+    },
+
+    ["Time Bomb Duel"] = {
+        IDs = {11379739543},
+        Script = "https://raw.githubusercontent.com/UnknownVg/ANIME-EDIT/refs/heads/main/TBomb%20Duel.lua"
     }
 }
 
