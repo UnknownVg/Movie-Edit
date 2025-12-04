@@ -35,12 +35,7 @@ getgenv().Games = {
     },
 
     ["Dark Deception Hunted"] = {
-        IDs = {
-            102181577519757,
-            125591428878906,
-            95211388186571,
-            136431686349723
-        },
+        IDs = {102181577519757, 125591428878906, 95211388186571, 136431686349723},
         Script = "https://raw.githubusercontent.com/UnknownVg/ANIME-EDIT/refs/heads/main/Hunted.lua"
     },
 
@@ -67,6 +62,11 @@ getgenv().Games = {
     ["Murder Mystery 2"] = {
         IDs = {142823291},
         Script = "https://raw.githubusercontent.com/UnknownVg/ANIME-EDIT/refs/heads/main/M%20m%202.lua"
+    },
+
+    ["Build A Boat"] = {
+        IDs = {537413528},
+        Script = "https://raw.githubusercontent.com/UnknownVg/ANIME-EDIT/refs/heads/main/BaB.Lua"
     }
 }
 
